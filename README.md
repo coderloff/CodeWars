@@ -4,3 +4,4 @@
 |:-:|:---:|:------:|:--------:|
 |1|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/which-are-in.cpp">Which are in?</a>|C++|6 kyu|
 |2|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/stop-gninnips-my-sdrow!.cpp">Stop gninnipS My sdroW!</a>|C++|6 kyu|
+|3|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/multiply.cpp">Multiply</a>|C++|8 kyu|
