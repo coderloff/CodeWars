@@ -6,7 +6,7 @@
 |2|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/stop-gninnips-my-sdrow!.cpp">Stop gninnips my sdrow!</a>|C++|6 kyu|
 |3|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/multiply.cpp">Multiply</a>|C++|8 kyu|
 |4|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/convert-string-to-camel-case.cpp">Convert string to camel case</a>|C++|6 kyu|
-|5|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/beginner-series-#3-sum-of-numbers.cpp">Beginner series #3 Sum of numbers</a>|C++|7 kyu|
+|5|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/beginner-series-3-sum-of-numbers.cpp">Beginner series #3 Sum of numbers</a>|C++|7 kyu|
 |6|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/printer-errors.cpp">Printer errors</a>|C++|7 kyu|
 |7|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/split-strings.cpp">Split strings</a>|C++|6 kyu|
 |8|<a href="https://github.com/coderloff/CodeWars/blob/main/Kata/bit-counting.cpp">Bit counting</a>|C++|6 kyu|
